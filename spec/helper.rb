@@ -1,4 +1,5 @@
 $TESTING=true
+require 'json'
 
 require 'simplecov'
 require 'coveralls'
